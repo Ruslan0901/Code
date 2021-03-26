@@ -1,0 +1,945 @@
+# Translation of Themes - Clean Gallery in Russian
+# This file is distributed under the same license as the Themes - Clean Gallery package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-01 11:39:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Clean Gallery\n"
+
+#. Description of the plugin/theme
+msgid "Clean Gallery is a clean and fully responsive, user friendly WordPress theme. It has various theme options, custom page templates, 2 columns and full-width layouts, right sidebar, 4 columns footer, many widget areas, social icons and more."
+msgstr "Чистая галерея это простая и полностью адаптивная, приветливая для пользователей WordPress тема. Присутствуют различные настройки темы, пользовательские шаблоны страниц, 2 столбца и полная ширина разметки, правая боковая панель, 4 столбца в подвале, много областей для виджетов, социальных кнопок и другое."
+
+#. Theme Name of the plugin/theme
+msgid "Clean Gallery"
+msgstr "Clean Gallery"
+
+#. translators: used between list items, there is a space after the comma
+#: admin/template-tags.php:64
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post date.
+#: admin/template-tags.php:12
+msgctxt "post date"
+msgid "<span class=\"screen-reader-text\">Posted on </span>%s"
+msgstr "<span class=\"screen-reader-text\">Опубликовано </span>%s"
+
+#: admin/customizer.php:560
+msgid "Upgrade To Clean Gallery Pro"
+msgstr "Обновить до Pro версии"
+
+#: admin/customizer.php:558
+msgid "Priority Support"
+msgstr "Приоритетная поддержка"
+
+#: admin/customizer.php:554
+msgid "Author Bio Box with Social Buttons"
+msgstr "Блок биографии автора с кнопками соц. сетей"
+
+#: admin/customizer.php:552
+msgid "Built-in Related Posts with Thumbnails"
+msgstr "Встроенные связанные записи с миниатюрами"
+
+#: admin/customizer.php:549
+msgid "2 Header Layouts (full-width header or header+728x90 ad)"
+msgstr "2 варианта разметки шапки (полная-ширина шапки или баннер шапки+728 на 90)"
+
+#: admin/customizer.php:548
+msgid "Custom Widgets (Social Widget, About Me Widget, Recent/Popular/Random Posts widgets with thumbnails)"
+msgstr "Пользовательские виджеты (Социальные виджеты, виджет \"обо мне\", Последние/Популярные/Случайные/Записи виджеты с миниатюрами)"
+
+#: admin/customizer.php:547
+msgid "Custom Page Templates (full-width / content+sidebar / sidebar+content)"
+msgstr "Пользовательский шаблон страницы (полная-ширина /  содержимое+боковая панель / боковая панель+содержимое)"
+
+#: admin/customizer.php:546
+msgid "Layout Options (full-width / content+sidebar / sidebar+content)"
+msgstr "Опции разметки (полная-ширина / содержимое+боковая панель/ боковая панель+содержимое)"
+
+#: admin/customizer.php:545
+msgid "Font Options / Google Web Fonts"
+msgstr "Параметры шрифта / Web шрифты Google"
+
+#. Template Name of the plugin/theme
+msgid "Sitemap"
+msgstr "Карта сайта"
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#. Template Name of the plugin/theme
+msgid "Full Width, no sidebar(s)"
+msgstr "Полная ширина, без боковой панели(ей)"
+
+#: template-sitemap.php:50
+msgid "Authors"
+msgstr "Авторы"
+
+#: template-sitemap.php:49
+msgid "Archives"
+msgstr "Архивы"
+
+#: template-sitemap.php:48
+msgid "Tags"
+msgstr "Метки"
+
+#: template-sitemap.php:45
+msgid "Categories"
+msgstr "Рубрики"
+
+#: template-sitemap.php:42
+msgid "Pages"
+msgstr "Страницы"
+
+#: template-sitemap.php:39
+msgid "Recent Comments"
+msgstr "Последние комментарии"
+
+#: template-sitemap.php:38
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+#: template-parts/content-top.php:101
+msgid "Search"
+msgstr "Поиск"
+
+#: template-parts/content-top.php:99
+msgid "RSS"
+msgstr "RSS-лента"
+
+#: template-parts/content-top.php:96
+msgid "Email Us"
+msgstr "Свяжитесь с нами по email"
+
+#: template-parts/content-top.php:93
+msgid "Skype"
+msgstr "Skype"
+
+#: template-parts/content-top.php:90
+msgid "SlideShare"
+msgstr "SlideShare"
+
+#: template-parts/content-top.php:87
+msgid "BuySellAds"
+msgstr "BuySellAds"
+
+#: template-parts/content-top.php:84
+msgid "Stack Exchange"
+msgstr "Stack Exchange"
+
+#: template-parts/content-top.php:81
+msgid "Stack Overflow"
+msgstr "Stack Overflow"
+
+#: template-parts/content-top.php:78
+msgid "JSFiddle"
+msgstr "JSFiddle"
+
+#: template-parts/content-top.php:75
+msgid "Codepen"
+msgstr "Codepen"
+
+#: template-parts/content-top.php:72
+msgid "Behance"
+msgstr "Behance"
+
+#: template-parts/content-top.php:69
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: template-parts/content-top.php:66
+msgid "Reddit"
+msgstr "Reddit"
+
+#: template-parts/content-top.php:63
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: template-parts/content-top.php:60
+msgid "Delicious"
+msgstr "Delicious"
+
+#: template-parts/content-top.php:57
+msgid "Digg"
+msgstr "Digg"
+
+#: template-parts/content-top.php:54
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: template-parts/content-top.php:51
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: template-parts/content-top.php:48
+msgid "Github"
+msgstr "Github"
+
+#: template-parts/content-top.php:45
+msgid "Lastfm"
+msgstr "Lastfm"
+
+#: template-parts/content-top.php:42
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: template-parts/content-top.php:39
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: template-parts/content-top.php:36
+msgid "Youtube"
+msgstr "Youtube"
+
+#: template-parts/content-top.php:33
+msgid "Flickr"
+msgstr "Flickr"
+
+#: template-parts/content-top.php:30
+msgid "Instagram"
+msgstr "Instagram"
+
+#: template-parts/content-top.php:27
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: template-parts/content-top.php:24
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: template-parts/content-top.php:21
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: template-parts/content-top.php:18
+msgid "Facebook"
+msgstr "Facebook"
+
+#: template-parts/content-top.php:15
+msgid "Twitter"
+msgstr "Twitter"
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:32
+msgid "Pages:"
+msgstr "Страницы"
+
+#. translators: %s: post title.
+#: template-parts/content-page.php:19 template-parts/content-single.php:29
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже по вашему запросу мы ничего не нашли. Возможно, поиск сможет помочь."
+
+#: template-parts/content-none.php:36
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но по вашему запросу ничего не найдено. Пожалуйста, попробуйте снова, с другими ключевыми фразами. "
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать вашу первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: single.php:35
+msgid "%title &rarr;"
+msgstr "%title &rarr;"
+
+#: single.php:35
+msgid "&larr; %title"
+msgstr "&larr; %title"
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search&#8230;"
+msgstr "Поиск&#8230;"
+
+#: searchform.php:3 searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Искать:"
+
+#. translators: %s: search query.
+#: search.php:37
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: functions.php:356
+msgid "Author: "
+msgstr "Автор: "
+
+#: functions.php:325
+msgid "Read More"
+msgstr "Читать далее"
+
+#: functions.php:281
+msgid "Widgets of this sidebar are located on the column 4 in the footer."
+msgstr "Виджеты этой боковой панели находится в 4 столбце, в подвале."
+
+#: functions.php:280
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: functions.php:272
+msgid "Widgets of this sidebar are located on the column 3 in the footer."
+msgstr "Виджеты этой боковой панели находится в 3 столбце, в подвале."
+
+#: functions.php:271
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:263
+msgid "Widgets of this sidebar are located on the column 2 in the footer."
+msgstr "Виджеты этой боковой панели находится в 2 столбце, в подвале."
+
+#: functions.php:262
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:254
+msgid "Widgets of this sidebar are located on the column 1 in the footer."
+msgstr "Виджеты этой боковой панели находится в 1 столбце, в подвале."
+
+#: functions.php:253
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:245
+msgid "Widgets of this sidebar are located at the bottom of the footer."
+msgstr "Виджеты этой боковой панели находятся внизу подвала."
+
+#: functions.php:244
+msgid "Bottom Footer"
+msgstr "Нижний подвал"
+
+#: functions.php:236
+msgid "Widgets of this sidebar are located at the top of the footer."
+msgstr "Виджеты этой боковой панели находятся в верху подвала."
+
+#: functions.php:235
+msgid "Top Footer"
+msgstr "Верхний подвал"
+
+#: functions.php:227
+msgid "Widgets of this sidebar are located at the bottom of the posts/pages."
+msgstr "Виджеты этой боковой панели находятся внизу страницы записей."
+
+#: functions.php:226
+msgid "Bottom Content"
+msgstr "Нижнее содержимое"
+
+#: functions.php:218
+msgid "Widgets of this sidebar are located at the top of the posts/pages."
+msgstr "Виджеты этой боковой панели расположены в верхней части страниц/записей."
+
+#: functions.php:217
+msgid "Top Content"
+msgstr "Верхнее содержимое"
+
+#: functions.php:209
+msgid "Widgets of this sidebar are located above the site-footer."
+msgstr "Виджеты этой боковой панели расположены над нижним подвалом сайта. "
+
+#: functions.php:208
+msgid "Bottom Full Width Area"
+msgstr "Полная ширина нижней зоны"
+
+#: functions.php:200
+msgid "Widgets of this sidebar are located at the bottom of the site-header."
+msgstr "Виджеты этой боковой панели расположены в нижней части заголовка сайта."
+
+#: functions.php:199
+msgid "Top Full Width Area"
+msgstr "Полная ширина верхней зоны"
+
+#: functions.php:191
+msgid "Widgets of this sidebar are located on your site-sidebar."
+msgstr "Виджеты этой боковой панели расположены на боковой панели вашего сайта. "
+
+#: functions.php:190
+msgid "Main Sidebar"
+msgstr "Главная боковая панель"
+
+#: functions.php:182
+msgid "Widgets of this sidebar are located on the right-hand side of the site-header."
+msgstr "Виджеты этой боковой панели расположены в правой части заголовка сайта."
+
+#: functions.php:181
+msgid "Header Right"
+msgstr "Правая часть заголовка"
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: footer.php:53
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Year and site name.
+#: footer.php:53
+msgid "Copyright &copy; %s"
+msgstr "Авторское право &copy; %s"
+
+#. translators: %s: Theme author.
+#: footer.php:51 footer.php:53
+msgid "Design by %s"
+msgstr "Дизайн %s"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Коментарии закрыты."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "1 комментарий к &ldquo;%1$s&rdquo;"
+
+#: admin/template-tags.php:89
+msgid "Newer posts &rarr;"
+msgstr "Новая запись &rarr;"
+
+#: admin/template-tags.php:89
+msgid "&larr; Older posts"
+msgstr "&larr; Старая запись"
+
+#: admin/template-tags.php:70 template-parts/content-page.php:32
+msgid "Edit"
+msgstr "Изменить"
+
+#. translators: 1: list of tags.
+#: admin/template-tags.php:67
+msgid "<i class=\"fa fa-tags\"></i> Tagged %1$s"
+msgstr "<i class=\"fa fa-tags\"></i> с меткой %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: admin/template-tags.php:58
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: admin/template-tags.php:61
+msgid "<i class=\"fa fa-folder-open\"></i> Posted in %1$s"
+msgstr "<i class=\"fa fa-folder-open\"></i> Опубликовано в %1$s"
+
+#. translators: %s: post author.
+#: admin/template-tags.php:43
+msgctxt "post author"
+msgid "<i class=\"fa fa-user\"></i> by <span class=\"author vcard\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\" itemprop=\"author\"><a class=\"url fn n\" href=\"%1$s\"><span itemprop=\"name\">%2$s</span></a></span>"
+msgstr "<i class=\"fa fa-user\"></i>Автор <span class=\"author vcard\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\" itemprop=\"author\"><a class=\"url fn n\" href=\"%1$s\"><span itemprop=\"name\">%2$s</span></a></span>"
+
+#. translators: %s: post date.
+#: admin/template-tags.php:40
+msgctxt "post date"
+msgid "<i class=\"fa fa-calendar\"></i> Posted on <a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date published updated\" datetime=\"%2$s\" itemprop=\"datePublished\">%3$s</time></a>"
+msgstr "<i class=\"fa fa-calendar\"></i>Опубликовано <a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date published updated\" datetime=\"%2$s\" itemprop=\"datePublished\">%3$s</time></a>"
+
+#: admin/template-tags.php:24 admin/template-tags.php:48
+msgid "% Comments"
+msgstr "% Комментарии"
+
+#: admin/template-tags.php:24 admin/template-tags.php:48
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: admin/template-tags.php:24 admin/template-tags.php:48
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: admin/customizer.php:557
+msgid "More Customizer options..."
+msgstr "Больше возможностей настройки"
+
+#: admin/customizer.php:556
+msgid "WooCommerce Support"
+msgstr "Поддержка WooCommerce"
+
+#: admin/customizer.php:555
+msgid "Search Engine Optimized"
+msgstr "Поисковая оптимизация"
+
+#: admin/customizer.php:553
+msgid "Built-in Share Buttons"
+msgstr "Встроенные кнопки Поделиться"
+
+#: admin/customizer.php:551
+msgid "Advanced Post Navigation"
+msgstr "Улучшенная навигация по записям"
+
+#: admin/customizer.php:550
+msgid "Many Widget Areas"
+msgstr "Много областей виджетов"
+
+#: admin/customizer.php:544
+msgid "More Color Options"
+msgstr "Больше цветовых опций"
+
+#: admin/customizer.php:542
+msgid "Do you enjoy Clean Gallery? Upgrade to Clean Gallery Pro now and get:"
+msgstr "Понравилась Чистая Галерея? Обновитесь до профессиональной версии сейчас и получите:"
+
+#: admin/customizer.php:539
+msgid "Clean Gallery Pro"
+msgstr "Clean Gallery Pro"
+
+#: admin/customizer.php:534
+msgid "Upgrade to Pro"
+msgstr "Обновить до версии профессиональная"
+
+#: admin/customizer.php:528 admin/customizer.php:532
+msgid "Recommended Plugins"
+msgstr "Рекомендованные плагины"
+
+#: admin/customizer.php:525
+msgid "Hide Theme Designer Credits"
+msgstr "Спрятать название разработчиков темы"
+
+#: admin/customizer.php:521
+msgid "Footer copyright notice"
+msgstr "Сноска про авторское право в подвале"
+
+#: admin/customizer.php:517
+msgid "Hide Footer Widgets"
+msgstr "Скрыть виджеты подвала"
+
+#: admin/customizer.php:513
+msgid "Footer"
+msgstr "Подвал"
+
+#: admin/customizer.php:510
+msgid "Hide Top Bar"
+msgstr "Скрыть верхнюю панель"
+
+#: admin/customizer.php:506
+msgid "Header"
+msgstr "Заголовок"
+
+#: admin/customizer.php:503
+msgid "RSS Feed URL"
+msgstr "URL RSS ленты"
+
+#: admin/customizer.php:499
+msgid "Email Address"
+msgstr "Email Адрес"
+
+#: admin/customizer.php:495
+msgid "Skype Username"
+msgstr "Имя пользователя Skype"
+
+#: admin/customizer.php:491
+msgid "SlideShare Link"
+msgstr "Ссылка SlideShare "
+
+#: admin/customizer.php:487
+msgid "BuySellAds Link"
+msgstr "Ссылка BuySellAds"
+
+#: admin/customizer.php:483
+msgid "Stack Exchange Link"
+msgstr "Ссылка Stack Exchange"
+
+#: admin/customizer.php:479
+msgid "Stack Overflow Link"
+msgstr "Ссылка Stack Overflow"
+
+#: admin/customizer.php:475
+msgid "JSFiddle Link"
+msgstr "Ссылка JSFiddle"
+
+#: admin/customizer.php:471
+msgid "Codepen Link"
+msgstr "Ссылка Codepen"
+
+#: admin/customizer.php:467
+msgid "Behance Link"
+msgstr "Ссылка Behance"
+
+#: admin/customizer.php:463
+msgid "Dribbble Link"
+msgstr "Ссылка Dribbble"
+
+#: admin/customizer.php:459
+msgid "Reddit Link"
+msgstr "Ссылка Reddit"
+
+#: admin/customizer.php:455
+msgid "Stumbleupon Link"
+msgstr "Ссылка Stumbleupon"
+
+#: admin/customizer.php:451
+msgid "Delicious URL"
+msgstr "Delicious URL"
+
+#: admin/customizer.php:447
+msgid "Digg URL"
+msgstr "Digg URL"
+
+#: admin/customizer.php:443
+msgid "Tumblr URL"
+msgstr "Tumblr URL"
+
+#: admin/customizer.php:439
+msgid "Bitbucket URL"
+msgstr "Bitbucket URL"
+
+#: admin/customizer.php:435
+msgid "Github URL"
+msgstr "Github URL"
+
+#: admin/customizer.php:431
+msgid "Lastfm URL"
+msgstr "Lastfm URL"
+
+#: admin/customizer.php:427
+msgid "Soundcloud URL"
+msgstr "Soundcloud URL"
+
+#: admin/customizer.php:423
+msgid "Vimeo URL"
+msgstr "Vimeo URL"
+
+#: admin/customizer.php:419
+msgid "Youtube URL"
+msgstr "Youtube URL"
+
+#: admin/customizer.php:415
+msgid "Flickr Link"
+msgstr "Ссылка Flickr"
+
+#: admin/customizer.php:411
+msgid "Instagram Link"
+msgstr "Ссылка Instagram"
+
+#: admin/customizer.php:407
+msgid "Linkedin Link"
+msgstr "Ссылка Linkedin"
+
+#: admin/customizer.php:403
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: admin/customizer.php:399
+msgid "Google Plus URL"
+msgstr "Google Plus URL"
+
+#: admin/customizer.php:395
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: admin/customizer.php:391
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: admin/customizer.php:387
+msgid "Social Links"
+msgstr "Ссылки на социальные сети"
+
+#: admin/customizer.php:384
+msgid "Read More Text"
+msgstr "Читать далее"
+
+#: admin/customizer.php:380
+msgid "Hide Author Bio Box"
+msgstr "Скрыть панель с биографией автора"
+
+#: admin/customizer.php:376
+msgid "Hide Thumbnails from Posts/Pages"
+msgstr "Скрыть миниатюры записей/страниц"
+
+#: admin/customizer.php:372
+msgid "Hide Comment Link"
+msgstr "Скрыть ссылки комментариев"
+
+#: admin/customizer.php:368
+msgid "Hide Post Tags"
+msgstr "Скрыть метки записей"
+
+#: admin/customizer.php:364
+msgid "Hide Post Categories"
+msgstr "Скрыть рубрики записей"
+
+#: admin/customizer.php:360
+msgid "Hide Post Author"
+msgstr "Скрыть записи автора"
+
+#: admin/customizer.php:356
+msgid "Hide Posted Date"
+msgstr "Скрыть дату записи"
+
+#: admin/customizer.php:352
+msgid "Post Options"
+msgstr "Параметры записи"
+
+#: admin/customizer.php:349
+msgid "Copyright Text Color"
+msgstr "Авторское право - цвет текста"
+
+#: admin/customizer.php:344
+msgid "Copyright Background Color"
+msgstr "Авторское право - цвет фона"
+
+#: admin/customizer.php:339
+msgid "Footer Link Hover Color"
+msgstr "Цвет ссылки в подвале при наведении"
+
+#: admin/customizer.php:334
+msgid "Footer Link Color"
+msgstr "Цвет ссылки в подвале"
+
+#: admin/customizer.php:329
+msgid "Footer Text Color"
+msgstr "Цвет текста в подвале"
+
+#: admin/customizer.php:324
+msgid "Footer Widget Title Color"
+msgstr "Цвет заголовка виджета в подвале"
+
+#: admin/customizer.php:319
+msgid "Footer Border Color"
+msgstr "Цвет обводки в подвале"
+
+#: admin/customizer.php:314
+msgid "Footer Background Color"
+msgstr "Фоновый цвет подвала"
+
+#: admin/customizer.php:309
+msgid "Tag Cloud Link Hover Border"
+msgstr "Обводка ссылки при наведении в облаке меток "
+
+#: admin/customizer.php:304
+msgid "Tag Cloud Link Hover Background"
+msgstr "Фон ссылки при наведении в облаке меток"
+
+#: admin/customizer.php:299
+msgid "Tag Cloud Link Hover Color"
+msgstr "Цвет ссылки при наведении в облаке меток"
+
+#: admin/customizer.php:294
+msgid "Tag Cloud Link Border"
+msgstr "Цвет обводки ссылки в облаке меток"
+
+#: admin/customizer.php:289
+msgid "Tag Cloud Link Background"
+msgstr "Фон ссылки в облаке меток"
+
+#: admin/customizer.php:284
+msgid "Tag Cloud Link Color"
+msgstr "Цвет ссылки в облаке меток"
+
+#: admin/customizer.php:279
+msgid "Sidebar Widget Title Border Color"
+msgstr "Цвет обводки у заголовка виджета в боковой панели"
+
+#: admin/customizer.php:274
+msgid "Sidebar Widget Title Background Color"
+msgstr "Фоновый цвет заголовка виджета в боковой панели"
+
+#: admin/customizer.php:269
+msgid "Sidebar Widget Title Color"
+msgstr "Цвет заголовка виджета в боковой панели"
+
+#: admin/customizer.php:264
+msgid "Sidebar Widget Border Color"
+msgstr "Цвет обводки виджета боковой панели"
+
+#: admin/customizer.php:259
+msgid "Sidebar Widget Background Color"
+msgstr "Фоновый цвет виджета боковой панели"
+
+#: admin/customizer.php:254
+msgid "Post Title Hover Color"
+msgstr "Цвет заголовка записи при наведении"
+
+#: admin/customizer.php:249
+msgid "Post Title Color"
+msgstr "Цвет заголовка записи"
+
+#: admin/customizer.php:244
+msgid "Post Header Border Color"
+msgstr "Цвет обводки заголовка записи"
+
+#: admin/customizer.php:239
+msgid "Post Header Background Color"
+msgstr "Фоновый цвет заголовка записи"
+
+#: admin/customizer.php:234
+msgid "Post Border Color"
+msgstr "Цвет обводки записи"
+
+#: admin/customizer.php:229
+msgid "Post Background Color"
+msgstr "Фоновый цвет записи"
+
+#: admin/customizer.php:224
+msgid "Home Post Title Hover Color"
+msgstr "Цвет заголовка главной записи при наведении"
+
+#: admin/customizer.php:219
+msgid "Home Post Title Color"
+msgstr "Цвет заголовка главного записи "
+
+#: admin/customizer.php:214
+msgid "Sub Menu Border"
+msgstr "Обводка подменю"
+
+#: admin/customizer.php:209
+msgid "Sub Menu Background"
+msgstr "Фон подменю"
+
+#: admin/customizer.php:204
+msgid "Menu Link Hover"
+msgstr "Ссылка меню при наведении"
+
+#: admin/customizer.php:199
+msgid "Menu Link"
+msgstr "Ссылка меню"
+
+#: admin/customizer.php:194
+msgid "Menu Shadow"
+msgstr "Тень меню"
+
+#: admin/customizer.php:189
+msgid "Menu Background"
+msgstr "Фон меню"
+
+#: admin/customizer.php:184
+msgid "Header Widget Link Hover Color"
+msgstr "Цвет ссылки при наведении у виджета в шапке"
+
+#: admin/customizer.php:179
+msgid "Header Widget Link Color"
+msgstr "Цвет ссылки виджета в шапке"
+
+#: admin/customizer.php:174
+msgid "Header Widget Text Color"
+msgstr "Цвет текста виджета в шапке"
+
+#: admin/customizer.php:169
+msgid "Header Widget Title Color"
+msgstr "Цвет заголовка виджета в шапке"
+
+#: admin/customizer.php:164
+msgid "Header Border"
+msgstr "Обводка шапки"
+
+#: admin/customizer.php:159
+msgid "Header Background"
+msgstr "Фон шапки"
+
+#: admin/customizer.php:154
+msgid "Social Buttons Hover Color"
+msgstr "Цвет кнопок соц. сетей при наведении"
+
+#: admin/customizer.php:149
+msgid "Social Buttons Color"
+msgstr "Цвет кнопок социальных сетей"
+
+#: admin/customizer.php:144
+msgid "Social Bar Background"
+msgstr "Фон панели соц. сетей"
+
+#: admin/customizer.php:139
+msgid "General Headings Color"
+msgstr "Основной цвет заголовков"
+
+#: admin/customizer.php:134
+msgid "Main Link Hover Color"
+msgstr "Основной цвет ссылки при наведении"
+
+#: admin/customizer.php:129
+msgid "Main Link Color"
+msgstr "Основной цвет ссылки"
+
+#: admin/customizer.php:124
+msgid "Main Text Color"
+msgstr "Основной цвет текста"
+
+#: admin/customizer.php:119
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+#: admin/customizer.php:115
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin/customizer.php:111
+msgid "Thanks for your interest in Clean Gallery! If you have any questions or run into any trouble, please visit us the following links. We will get you fixed up!"
+msgstr "Спасибо за ваш интерес к \"Чистой галерее\"! Есть у Вас есть какие-то вопросы или возникли трудности, пожалуйста посетите следующие страницы. Мы поможем решить проблему!"
+
+#: admin/customizer.php:111
+msgid "Getting Started"
+msgstr "Начало работы"
+
+#: admin/customizer.php:98
+msgid "Theme Options"
+msgstr "Параметры темы"
+
+#: admin/customizer.php:85
+msgid "Regenerate Thumbnails plugin helps you to regenerate your thumbnails to match with this theme. Install and activate the plugin. From the left hand navigation menu, click Tools &gt; Regen. Thumbnails. On the next screen, click Regenerate All Thumbnails."
+msgstr "Плагин регенерации миниатюр поможет Вам заново сгенерировать миниатюры для этой темы. Установите и активируйте плагин. В левой части навигационного меню, щёлкните на Инструменты &gt; Сгенерировать. Миниатюры. В следующей окне, щелкните сгенерировать все миниатюры."
+
+#: admin/customizer.php:84
+msgid "Regenerate Thumbnails"
+msgstr "Заново сгенерировать миниатюры"
+
+#: admin/customizer.php:80
+msgid "WP-PageNavi plugin helps to display numbered page navigation of this theme.<br/><br/>Just install and activate the plugin."
+msgstr "Страница навигации-WP: плагин помогает в отображении пронумерованных страниц и навигации в этой теме. <br/><br/> Просто установите и активируйте плагин."
+
+#: admin/customizer.php:79
+msgid "WP-PageNavi"
+msgstr "WP-PageNavi"
+
+#. translators: %1$s: smiley
+#: 404.php:55
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте посмотреть в архивах месяца. %1$s"
+
+#: 404.php:39
+msgid "Most Used Categories"
+msgstr "Самые популярные рубрики"
+
+#: 404.php:34
+msgid "Back to Homepage"
+msgstr "Назад на главную страницу"
+
+#: 404.php:32
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже, что ничего в этой области не было найдено. Попробуйте воспользоваться ссылками или функцией поиска."
+
+#: 404.php:28
+msgid "Oops! That page can not be found."
+msgstr "Упс! Эта страница не найдена."
+
+#. Author URI of the plugin/theme
+msgid "https://themesdna.com/"
+msgstr "https://themesdna.com/"
+
+#. Author of the plugin/theme
+msgid "ThemesDNA"
+msgstr "ThemesDNA"
+
+#. Theme URI of the plugin/theme
+msgid "https://themesdna.com/clean-gallery-wordpress-theme/"
+msgstr "https://themesdna.com/clean-gallery-wordpress-theme/"

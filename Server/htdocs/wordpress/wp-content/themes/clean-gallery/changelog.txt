@@ -1,0 +1,28 @@
+= Version 1.0.7 =
+* Fixed minor coding issues.
+
+= Version 1.0.6 =
+* Fixed coding issues.
+* Improved accessibility.
+* Screenshot was updated.
+* Customizer was updated.
+* New custom templates were added.
+* More features were added.
+
+= Version 1.0.5 =
+* Fixed minor coding issues.
+
+= Version 1.0.4 =
+* Fixed minor coding issues.
+
+= Version 1.0.3 =
+* Fixed minor coding issues.
+
+= Version 1.0.2 =
+* Fixed minor coding issues.
+
+= Version 1.0.1 =
+* Fixed minor coding issues.
+
+= Version 1.0.0 =
+* Initial Release
